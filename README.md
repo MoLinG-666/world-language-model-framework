@@ -43,3 +43,10 @@ This work is licensed under **CC BY-NC 4.0** for non-commercial use.
 You may read, copy, share, adapt, and redistribute this work for non-commercial purposes with attribution to **MoLinG-666**.
 
 **Commercial use requires separate written authorization from MoLinG-666.**
+
+
+## AI Assistance Disclosure / AI 辅助说明
+
+AI tools were used to assist with drafting, language polishing, typesetting, and parts of the experimental implementation. The research question, framework, central claims, experimental direction, interpretation of results, and final judgments were developed and decided by **MoLinG-666**. AI tools are not listed as authors.
+
+本文在文字起草、语言润色、排版与部分实验实现过程中使用了 AI 工具辅助。研究问题、框架思路、核心主张、实验方向、结果取舍与最终判断由作者 **MoLinG-666** 提出并决定。AI 工具不列为作者。
