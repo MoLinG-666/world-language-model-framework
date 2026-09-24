@@ -1,22 +1,45 @@
-# 发现为什么需要判官：自主假设生成中的代理判官
+# The Future of This World Must Be Derived by the World / 这个世界的未来需要世界来推导
 
-A position paper on surrogate judges for autonomous hypothesis generation.
+**World Language Model Framework (WLMF) / 世界语言模型框架**
 
-核心观点：最好的判官不一定是总体准确率最高的那个，而是在可接受的验证成本下，错误与假设生成器最不相关的那个。
+核心观点：真正面向未知的 AI 不能只在语言内部互相说服。**世界语言模型框架（WLMF）**让语言模型负责生成与表达，让异质判官负责互补验证，让不确定问题回到现实世界，由世界本身给出最终反馈。
 
 ## Paper
-- 中文版：`paper-cn.pdf`
-- LaTeX 源文件：`paper-cn.tex`（XeLaTeX 编译）
+
+- English: [`paper-en.pdf`](paper-en.pdf)
+- 中文版：[`paper-cn.pdf`](paper-cn.pdf)
+
+## World Language Model Framework / 世界语言模型框架
+
+
+WLMF 的核心闭环：
+
+`Generate → Judge → Route uncertainty/OOD → Reality → Feedback`
+
+它不是宣称“世界模型就是真理”，而是把现实世界保留为最终校准源。
+
+## What changed in v0.3
+
+- 正式将架构命名为 **World Language Model Framework (WLMF) / 世界语言模型框架**。
+- 主标题更新为 **The Future of This World Must Be Derived by the World / 这个世界的未来需要世界来推导**。
+- 核心技术内容沿用 v0.2：异质判官、互补盲区、不确定性/OOD 路由与现实反馈。
 
 ## Status
-Position paper / preliminary research proposal (v0.1).
-The proposed experiments have not yet been conducted.
+
+Position paper + preliminary experiment, **v0.3**.
 
 ## Author
+
 MoLinG-666
 
 ## Date
+
 2026-09-24
 
 ## License
-本文采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。
+
+This work is licensed under **CC BY-NC 4.0** for non-commercial use.
+
+You may read, copy, share, adapt, and redistribute this work for non-commercial purposes with attribution to **MoLinG-666**.
+
+**Commercial use requires separate written authorization from MoLinG-666.**
